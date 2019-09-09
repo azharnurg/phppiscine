@@ -1,0 +1,75 @@
+
+body{
+                background-color:antiquewhite;
+            }
+            h1{
+                text-align: center;
+            }
+            img{
+                width: 300px;
+            }
+            td{
+                box-shadow:3px 2px 2px #000000;
+                border-radius:4px;
+                border: 5x;
+                margin: 0 0;
+                padding:4px;
+                width: 30vw;
+                
+            }
+            td.nonmetals{
+                background-color: pink;
+            }
+            td.alcali{
+                background-color: #efbbff;
+            }
+            td.alcaline{
+                background-color: skyblue;
+            }
+            td.transition{
+                background-color: #F6E433;
+            }
+            td.metalloids{
+                background-color: coral;
+            }
+            td.posttransitions{
+                background-color: darkseagreen;
+            }
+            td.halogens{
+                background-color: #8FF2F2;
+            }
+            td.noble{
+                background-color:#D8B2D8;
+            }
+            td.lantanoids{
+                background-color: orange;
+            }
+            td.actinoids{
+                background-color: #478970;
+            }
+              p.periodicnumber{
+                margin: 0 auto;
+                border: 0;
+                padding: 0;
+                text-align: top;
+                float: left;
+                font-size: 1vw;
+            }
+            .elem{
+                text-align: center;
+                font-weight: bold;
+                font-size: 1vw;
+                margin-top: 1vw;
+                margin-left: 0vw;
+                margin-right: 0vw;
+            }
+            .atomicweight{
+                float:right;
+                text-align: bottom;
+                font-size: 1vw;
+                margin-right: 0vw;
+                margin-bottom: 0;
+            }
+            p{
+                text-align: left;
+            }
